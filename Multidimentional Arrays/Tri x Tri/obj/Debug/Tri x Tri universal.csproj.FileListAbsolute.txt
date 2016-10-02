@@ -1,0 +1,3 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Tri x Tri\bin\Debug\Tri x Tri.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Tri x Tri\obj\Debug\Tri x Tri.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Tri x Tri\obj\Debug\Tri x Tri.pdb

@@ -1,0 +1,4 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\1\bin\Debug\1.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\1\obj\Debug\1.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\1\obj\Debug\1.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\1\obj\Debug\1.csprojResolveAssemblyReference.cache

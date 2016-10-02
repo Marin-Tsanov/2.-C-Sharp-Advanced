@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\3. Day of week\bin\Debug\_3.Day_of_week.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\3. Day of week\bin\Debug\_3.Day_of_week.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\3. Day of week\bin\Debug\_3.Day_of_week.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\3. Day of week\obj\Debug\_3.Day_of_week.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\3. Day of week\obj\Debug\_3.Day_of_week.pdb

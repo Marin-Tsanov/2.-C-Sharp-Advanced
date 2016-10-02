@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\4. Triangle surface by side and altitude\bin\Debug\_4.Triangle_surface_by_side_and_altitude.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\4. Triangle surface by side and altitude\bin\Debug\_4.Triangle_surface_by_side_and_altitude.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\4. Triangle surface by side and altitude\bin\Debug\_4.Triangle_surface_by_side_and_altitude.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\4. Triangle surface by side and altitude\obj\Debug\4. Triangle surface by side and altitude.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\4. Triangle surface by side and altitude\obj\Debug\_4.Triangle_surface_by_side_and_altitude.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\4. Triangle surface by side and altitude\obj\Debug\_4.Triangle_surface_by_side_and_altitude.pdb

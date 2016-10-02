@@ -1,0 +1,1 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\0.Parse string\bin\Debug\0.Parse string.exe.config

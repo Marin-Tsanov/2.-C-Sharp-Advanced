@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

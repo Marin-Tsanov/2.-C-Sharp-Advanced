@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Split\bin\Debug\Split.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Split\bin\Debug\Split.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Split\bin\Debug\Split.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Split\obj\Debug\Split.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Split\obj\Debug\Split.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Split\obj\Debug\Split.pdb

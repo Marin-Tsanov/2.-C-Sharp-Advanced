@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\1. Leap year\bin\Debug\_1.Leap_year.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\1. Leap year\bin\Debug\_1.Leap_year.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\1. Leap year\bin\Debug\_1.Leap_year.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\1. Leap year\obj\Debug\1. Leap year.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\1. Leap year\obj\Debug\_1.Leap_year.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\1. Leap year\obj\Debug\_1.Leap_year.pdb

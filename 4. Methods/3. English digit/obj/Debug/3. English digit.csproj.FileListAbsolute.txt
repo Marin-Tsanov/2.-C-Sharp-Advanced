@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\3. English digit\bin\Debug\_3.English_digit.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\3. English digit\bin\Debug\_3.English_digit.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\3. English digit\bin\Debug\_3.English_digit.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\3. English digit\obj\Debug\_3.English_digit.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\3. English digit\obj\Debug\_3.English_digit.pdb

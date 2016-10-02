@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract sentences\bin\Debug\08.Extract sentences.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract sentences\bin\Debug\08.Extract sentences.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract sentences\bin\Debug\08.Extract sentences.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract sentences\obj\Debug\08.Extract sentences.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract sentences\obj\Debug\08.Extract sentences.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract sentences\obj\Debug\08.Extract sentences.pdb

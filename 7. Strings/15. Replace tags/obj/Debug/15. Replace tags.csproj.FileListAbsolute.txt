@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\15. Replace tags\bin\Debug\_15.Replace_tags.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\15. Replace tags\bin\Debug\_15.Replace_tags.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\15. Replace tags\bin\Debug\_15.Replace_tags.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\15. Replace tags\obj\Debug\15. Replace tags.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\15. Replace tags\obj\Debug\_15.Replace_tags.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\15. Replace tags\obj\Debug\_15.Replace_tags.pdb

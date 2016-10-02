@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\9. Sorting array\bin\Debug\_9.Sorting_array.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\9. Sorting array\bin\Debug\_9.Sorting_array.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\9. Sorting array\bin\Debug\_9.Sorting_array.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\9. Sorting array\obj\Debug\9. Sorting array.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\9. Sorting array\obj\Debug\_9.Sorting_array.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\9. Sorting array\obj\Debug\_9.Sorting_array.pdb

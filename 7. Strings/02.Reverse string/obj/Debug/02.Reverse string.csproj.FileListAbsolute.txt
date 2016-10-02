@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\02.Reverse string\bin\Debug\02.Reverse string.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\02.Reverse string\bin\Debug\02.Reverse string.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\02.Reverse string\bin\Debug\02.Reverse string.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\02.Reverse string\obj\Debug\02.Reverse string.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\02.Reverse string\obj\Debug\02.Reverse string.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\02.Reverse string\obj\Debug\02.Reverse string.pdb

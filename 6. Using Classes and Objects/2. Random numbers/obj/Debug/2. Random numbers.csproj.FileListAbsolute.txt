@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\2. Random numbers\bin\Debug\_2.Random_numbers.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\2. Random numbers\bin\Debug\_2.Random_numbers.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\2. Random numbers\bin\Debug\_2.Random_numbers.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\2. Random numbers\obj\Debug\_2.Random_numbers.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\6. Using Classes and Objects\2. Random numbers\obj\Debug\_2.Random_numbers.pdb

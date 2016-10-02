@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\6. Using Classes and Objects\7\bin\Debug\7.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\6. Using Classes and Objects\7\obj\Debug\7.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\6. Using Classes and Objects\7\obj\Debug\7.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\6. Using Classes and Objects\7\obj\Debug\7.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\6. Using Classes and Objects\7\bin\Debug\7.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\6. Using Classes and Objects\7\bin\Debug\7.pdb

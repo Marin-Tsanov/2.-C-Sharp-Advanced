@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\1. Fill the Matrix\bin\Debug\_1.Fill_the_Matrix.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\1. Fill the Matrix\bin\Debug\_1.Fill_the_Matrix.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\1. Fill the Matrix\bin\Debug\_1.Fill_the_Matrix.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\1. Fill the Matrix\obj\Debug\1. Fill the Matrix.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\1. Fill the Matrix\obj\Debug\_1.Fill_the_Matrix.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\1. Fill the Matrix\obj\Debug\_1.Fill_the_Matrix.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.1 Methods\8.1 Number as Array\bin\Debug\8.1 Number as Array.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.1 Methods\8.1 Number as Array\bin\Debug\8.1 Number as Array.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.1 Methods\8.1 Number as Array\bin\Debug\8.1 Number as Array.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.1 Methods\8.1 Number as Array\obj\Debug\8.1 Number as Array.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.1 Methods\8.1 Number as Array\obj\Debug\8.1 Number as Array.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.1 Methods\8.1 Number as Array\obj\Debug\8.1 Number as Array.pdb

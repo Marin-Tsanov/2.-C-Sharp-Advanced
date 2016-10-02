@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\6. First larger than neighbours\bin\Debug\_6.First_larger_than_neighbours.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\6. First larger than neighbours\bin\Debug\_6.First_larger_than_neighbours.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\6. First larger than neighbours\bin\Debug\_6.First_larger_than_neighbours.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\6. First larger than neighbours\obj\Debug\_6.First_larger_than_neighbours.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\6. First larger than neighbours\obj\Debug\_6.First_larger_than_neighbours.pdb

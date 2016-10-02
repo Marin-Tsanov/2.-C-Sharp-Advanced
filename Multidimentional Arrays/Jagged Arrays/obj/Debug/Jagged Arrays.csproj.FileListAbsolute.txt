@@ -1,0 +1,1 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Jagged Arrays\bin\Debug\Jagged Arrays.exe.config

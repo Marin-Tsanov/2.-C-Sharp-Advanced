@@ -1,0 +1,5 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Maximal sum\bin\Debug\Maximal sum.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Maximal sum\bin\Debug\Maximal sum.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Maximal sum\bin\Debug\Maximal sum.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Maximal sum\obj\Debug\Maximal sum.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\Maximal sum\obj\Debug\Maximal sum.pdb

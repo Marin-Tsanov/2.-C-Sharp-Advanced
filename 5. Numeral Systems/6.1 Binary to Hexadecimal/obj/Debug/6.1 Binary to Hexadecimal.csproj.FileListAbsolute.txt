@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\6.1 Binary to Hexadecimal\bin\Debug\6.1 Binary to Hexadecimal.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\6.1 Binary to Hexadecimal\bin\Debug\6.1 Binary to Hexadecimal.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\6.1 Binary to Hexadecimal\bin\Debug\6.1 Binary to Hexadecimal.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\6.1 Binary to Hexadecimal\obj\Debug\6.1 Binary to Hexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\6.1 Binary to Hexadecimal\obj\Debug\6.1 Binary to Hexadecimal.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\6.1 Binary to Hexadecimal\obj\Debug\6.1 Binary to Hexadecimal.pdb

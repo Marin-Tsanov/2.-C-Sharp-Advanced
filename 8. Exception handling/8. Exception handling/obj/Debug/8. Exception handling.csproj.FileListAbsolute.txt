@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\8. Exception handling\bin\Debug\_8.Exception_handling.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\8. Exception handling\bin\Debug\_8.Exception_handling.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\8. Exception handling\bin\Debug\_8.Exception_handling.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\8. Exception handling\obj\Debug\_8.Exception_handling.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\8. Exception handling\obj\Debug\_8.Exception_handling.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\8. Exception handling\obj\Debug\8. Exception handling.csprojResolveAssemblyReference.cache

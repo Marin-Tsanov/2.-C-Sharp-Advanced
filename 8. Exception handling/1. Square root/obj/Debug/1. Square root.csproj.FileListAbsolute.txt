@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\1. Square root\bin\Debug\_1.Square_root.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\1. Square root\bin\Debug\_1.Square_root.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\1. Square root\bin\Debug\_1.Square_root.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\1. Square root\obj\Debug\1. Square root.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\1. Square root\obj\Debug\_1.Square_root.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\1. Square root\obj\Debug\_1.Square_root.pdb

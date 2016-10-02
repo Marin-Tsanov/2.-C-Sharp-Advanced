@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\7. One system to any other\bin\Debug\_7.One_system_to_any_other.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\7. One system to any other\bin\Debug\_7.One_system_to_any_other.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\7. One system to any other\bin\Debug\_7.One_system_to_any_other.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\7. One system to any other\obj\Debug\7. One system to any other.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\7. One system to any other\obj\Debug\_7.One_system_to_any_other.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\7. One system to any other\obj\Debug\_7.One_system_to_any_other.pdb

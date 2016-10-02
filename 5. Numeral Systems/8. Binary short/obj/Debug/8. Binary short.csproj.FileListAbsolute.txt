@@ -1,0 +1,9 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\8. Binary short\bin\Debug\_8.Binary_short.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\8. Binary short\bin\Debug\_8.Binary_short.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\8. Binary short\bin\Debug\_8.Binary_short.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\8. Binary short\obj\Debug\8. Binary short.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\8. Binary short\obj\Debug\_8.Binary_short.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\3.2 Numeral Systems\8. Binary short\obj\Debug\_8.Binary_short.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\8. Binary short\bin\Debug\_8.Binary_short.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\8. Binary short\obj\Debug\_8.Binary_short.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\8. Binary short\obj\Debug\_8.Binary_short.pdb

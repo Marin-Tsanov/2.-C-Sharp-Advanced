@@ -1,0 +1,9 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.2 Numeral Systems\3.2 Numeral Systems\bin\Debug\3.2 Numeral Systems.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.2 Numeral Systems\3.2 Numeral Systems\bin\Debug\3.2 Numeral Systems.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.2 Numeral Systems\3.2 Numeral Systems\bin\Debug\3.2 Numeral Systems.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.2 Numeral Systems\3.2 Numeral Systems\obj\Debug\1.Decimal to binary.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.2 Numeral Systems\3.2 Numeral Systems\obj\Debug\3.2 Numeral Systems.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.2 Numeral Systems\3.2 Numeral Systems\obj\Debug\3.2 Numeral Systems.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\3.2 Numeral Systems\bin\Debug\3.2 Numeral Systems.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\3.2 Numeral Systems\obj\Debug\3.2 Numeral Systems.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\3.2 Numeral Systems\obj\Debug\3.2 Numeral Systems.pdb

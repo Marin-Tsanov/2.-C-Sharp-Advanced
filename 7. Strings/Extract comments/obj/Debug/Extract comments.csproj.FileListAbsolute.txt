@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Extract comments\bin\Debug\Extract comments.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Extract comments\bin\Debug\Extract comments.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Extract comments\bin\Debug\Extract comments.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Extract comments\obj\Debug\Extract comments.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Extract comments\obj\Debug\Extract comments.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\Extract comments\obj\Debug\Extract comments.pdb

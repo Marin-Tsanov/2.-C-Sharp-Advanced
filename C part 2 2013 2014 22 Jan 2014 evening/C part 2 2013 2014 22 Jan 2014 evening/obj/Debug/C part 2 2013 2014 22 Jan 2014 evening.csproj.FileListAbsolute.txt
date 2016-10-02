@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\C part 2 2013 2014 22 Jan 2014 evening\bin\Debug\C part 2 2013 2014 22 Jan 2014 evening.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\C part 2 2013 2014 22 Jan 2014 evening\obj\Debug\C part 2 2013 2014 22 Jan 2014 evening.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\C part 2 2013 2014 22 Jan 2014 evening\bin\Debug\C part 2 2013 2014 22 Jan 2014 evening.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\C part 2 2013 2014 22 Jan 2014 evening\bin\Debug\C part 2 2013 2014 22 Jan 2014 evening.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\C part 2 2013 2014 22 Jan 2014 evening\obj\Debug\C part 2 2013 2014 22 Jan 2014 evening.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\C part 2 2013 2014 22 Jan 2014 evening\C part 2 2013 2014 22 Jan 2014 evening\obj\Debug\C part 2 2013 2014 22 Jan 2014 evening.pdb

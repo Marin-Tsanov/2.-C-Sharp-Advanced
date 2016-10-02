@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\MyJagged\bin\Debug\MyJagged.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\MyJagged\bin\Debug\MyJagged.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\MyJagged\bin\Debug\MyJagged.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\MyJagged\obj\Debug\MyJagged.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\MyJagged\obj\Debug\MyJagged.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\Multidimentional Arrays\MyJagged\obj\Debug\MyJagged.pdb

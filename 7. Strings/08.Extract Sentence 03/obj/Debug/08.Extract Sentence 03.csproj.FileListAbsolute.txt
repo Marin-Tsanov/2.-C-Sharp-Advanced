@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract Sentence 03\bin\Debug\08.Extract Sentence 03.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract Sentence 03\bin\Debug\08.Extract Sentence 03.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract Sentence 03\bin\Debug\08.Extract Sentence 03.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract Sentence 03\obj\Debug\08.Extract Sentence 03.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract Sentence 03\obj\Debug\08.Extract Sentence 03.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\7. Strings\08.Extract Sentence 03\obj\Debug\08.Extract Sentence 03.pdb

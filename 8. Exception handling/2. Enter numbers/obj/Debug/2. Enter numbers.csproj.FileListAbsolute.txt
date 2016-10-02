@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\2. Enter numbers\bin\Debug\_2.Enter_numbers.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\2. Enter numbers\bin\Debug\_2.Enter_numbers.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\2. Enter numbers\bin\Debug\_2.Enter_numbers.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\2. Enter numbers\obj\Debug\2. Enter numbers.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\2. Enter numbers\obj\Debug\_2.Enter_numbers.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\8. Exception handling\2. Enter numbers\obj\Debug\_2.Enter_numbers.pdb

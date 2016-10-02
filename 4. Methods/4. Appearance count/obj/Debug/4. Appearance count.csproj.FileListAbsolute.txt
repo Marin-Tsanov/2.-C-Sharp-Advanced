@@ -1,0 +1,6 @@
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\4. Appearance count\bin\Debug\_4.Appearance_count.exe.config
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\4. Appearance count\obj\Debug\4. Appearance count.csprojResolveAssemblyReference.cache
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\4. Appearance count\bin\Debug\_4.Appearance_count.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\4. Appearance count\bin\Debug\_4.Appearance_count.pdb
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\4. Appearance count\obj\Debug\_4.Appearance_count.exe
+c:\users\marin\documents\visual studio 2015\Projects\C# 2\3.1 Methods\4. Appearance count\obj\Debug\_4.Appearance_count.pdb

@@ -1,0 +1,6 @@
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\Task 1 Again\bin\Debug\Task 1 Again.exe.config
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\Task 1 Again\obj\Debug\Task 1 Again.csprojResolveAssemblyReference.cache
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\Task 1 Again\bin\Debug\Task 1 Again.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\Task 1 Again\bin\Debug\Task 1 Again.pdb
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\Task 1 Again\obj\Debug\Task 1 Again.exe
+C:\Users\Marin\Documents\Visual Studio 2015\Projects\C# 2\5. Numeral Systems\Task 1 Again\obj\Debug\Task 1 Again.pdb
